@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "examplemod:blocks/myblock2/myblock2-1",
+    "down": "examplemod:blocks/myblock2/myblock2-1",
+    "up": "examplemod:blocks/myblock2/myblock2-2",
+    "east": "examplemod:blocks/myblock2/myblock2-3",
+    "west": "examplemod:blocks/myblock2/myblock2-4",
+    "north": "examplemod:blocks/myblock2/myblock2-5",
+    "south": "examplemod:blocks/myblock2/myblock2-6"
+  }
+}

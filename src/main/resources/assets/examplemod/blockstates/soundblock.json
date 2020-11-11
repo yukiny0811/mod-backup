@@ -1,0 +1,28 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "particle": "examplemod:blocks/soundblock/sound_side",
+      "down": "examplemod:blocks/soundblock/sound_down",
+      "up": "examplemod:blocks/soundblock/sound_up",
+      "east": "examplemod:blocks/soundblock/sound_side",
+      "west": "examplemod:blocks/soundblock/sound_side",
+      "north": "examplemod:blocks/soundblock/sound_front",
+      "south": "examplemod:blocks/soundblock/sound_side"
+    },
+    "model": "cube_all"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {}
+    ],
+    "sound": {
+      "0": {},
+      "1": {},
+      "2": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "blocks/stone"
+    },
+    "model": "cube_all"
+  },
+  "variants": {
+    "normal": [
+      {}
+    ],
+    "inventory": [
+      {
+        "all": "examplemod:blocks/myredstoneblock/redstone_input_0"
+      }
+    ],
+    "state": {
+      "0": {
+        "textures": {
+          "all": "examplemod:blocks/myredstoneblock/redstone_input_0"
+        }
+      },
+      "1": {
+        "textures": {
+          "all": "examplemod:blocks/myredstoneblock/redstone_input_1"
+        }
+      },
+      "2": {
+        "textures": {
+          "all": "examplemod:blocks/myredstoneblock/redstone_input_2"
+        }
+      },
+      "3": {
+        "textures": {
+          "all": "examplemod:blocks/myredstoneblock/redstone_input_3"
+        }
+      }
+    }
+  }
+}
